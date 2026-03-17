@@ -55,3 +55,6 @@ The system follows a modular agent-based design:
 ```bash
 pip install pipenv
 pipenv install
+pipenv install langchain_groq
+pipenv install crewai
+pipenv install crewai_tools
